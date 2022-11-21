@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.input-page{
+    margin-top: 3rem;
+    width: 40%;
+    align-items: center;
+}
+
+.input-page input{
+    width: 100%;
+    margin: 10px 3rem;
+    padding: 20px 15px;
+    border-radius: 5px;
+    outline-color: black;
+}
+
+.input-page button{
+    width: 100%;
+    margin: 30px 3rem;
+    padding: 20px 15px;
+    border-radius: 5px;
+    border-color: brown;
+    color: white;
+    background-color: brown;
+    cursor: pointer;
+}
